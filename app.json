@@ -37,9 +37,6 @@
         "projectId": "89ff8ce6-9dce-490d-b722-7af660a0cfa8"
       }
     },
-    "plugins": [
-      "expo-font"
-    ],
     "newArchEnabled": false
   }
 }
