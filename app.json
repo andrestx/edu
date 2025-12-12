@@ -37,10 +37,6 @@
         "projectId": "950c093c-7deb-4d27-be7d-1cd6b772d2f3"
       }
     },
-    "cli": {
-      "appVersionSource": "local"
-    },
-    "owner": "edulift",
-    "newArchEnabled": false
+    "owner": "edulift"
   }
 }
