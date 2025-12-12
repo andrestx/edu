@@ -1,4 +1,4 @@
-# EduChallenge - Aplicație Educațională Interactivă
+# EduChallenge - Aplicație Educațională Interactivă ABANDONATA
 
 O aplicație mobilă pentru competiții educaționale între echipe, cu sistem de tras funia virtual.
 
